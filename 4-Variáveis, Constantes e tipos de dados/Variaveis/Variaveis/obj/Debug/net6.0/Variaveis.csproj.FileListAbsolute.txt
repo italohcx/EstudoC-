@@ -1,0 +1,15 @@
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.exe
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.deps.json
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.runtimeconfig.json
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.dll
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\ref\Variaveis.dll
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\net6.0\Variaveis.pdb
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfo.cs
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.dll
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\ref\Variaveis.dll
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.pdb
+C:\Users\italo oliveira\Desktop\Estudo C#\4-Variáveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\net6.0\Variaveis.genruntimeconfig.cache
