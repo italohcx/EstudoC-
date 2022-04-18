@@ -12,9 +12,16 @@ namespace Variaveis
     {
         enum Notas
         {
-          Minimo, 
-          Média, 
-          Máxima   
+          Minimo = 10, 
+          Média = 20, 
+          Máxima = 30,  
+        }
+
+        struct Pessoa
+        {
+            public string nome;
+            public int idade;
+            public double altura;
         }
 
 
@@ -90,7 +97,6 @@ namespace Variaveis
 
             #endregion
 
-
             #region Enumaradores
 
             Notas notas = Notas.Minimo;
@@ -101,10 +107,15 @@ namespace Variaveis
 
             #endregion
 
+            #region Strugct
+
+            Pessoa pessoa = new Pessoa();
+            pessoa.nome = "Goku";
+            pessoa.idade = 40;
+            pessoa.altura = 1.89;
 
 
-
-
+            #endregion
 
         }
 
