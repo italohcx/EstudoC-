@@ -51,7 +51,6 @@ namespace Conversao
 
             #endregion
 
-
             #region Class Convert
 
             string txt = Convert.ToString(num7);
